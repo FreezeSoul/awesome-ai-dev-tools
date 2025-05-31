@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **500+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **240+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
