@@ -351,11 +351,13 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[JetBrains AI](https://www.jetbrains.com/ai/)** - Built-in AI features across all JetBrains IDEs, offering code completion, chat, documentation generation, and commit message suggestions.
 
-**[Jules](https://jules.google)** - Google's asynchronous AI coding assistant based on Gemini 2.5 Pro, designed to clone codebases into secure VMs, create multi-step plans, and support Python and JavaScript with GitHub integration.
+**[Jules](https://jules.google/)** - Google's asynchronous AI coding assistant that operates on GitHub repositories, cloning projects into secure VMs to execute tasks like building features, fixing bugs, and writing tests, with changes presented as pull requests for review.
 
 **[Junie](https://www.jetbrains.com/junie/)** - JetBrains' AI coding agent for Python, Kotlin, and Java, featuring adaptive learning and deep IDE integration.
 
 **[Kilo Code](https://kilocode.ai)** - An open-source AI coding assistant for planning, building, and fixing code inside VS Code.
+
+**[Kiro.dev](https://kiro.dev/)** - An AI-powered IDE by Amazon built on a VS Code fork, focused on spec-driven development and agentic workflows for cloud projects, featuring autonomous agent hooks, AWS resource scaffolding, and multimodal chat.
 
 **[Kodezi](https://kodezi.com/)** - A comprehensive AI-powered developer tool for code assistance.
 
@@ -543,7 +545,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[TEXT2SQL.AI](https://www.text2sql.ai/)** - An AI tool for SQL query translation and explanation.
 
-**[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, and custom agents using arbitrary LLMs via Theia AI.
+**[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
